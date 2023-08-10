@@ -1,0 +1,25 @@
+.heading{
+    text-align: center;
+}
+
+.text-item{
+    text-align: center;
+}
+
+.button{
+    width: 66px;
+    margin: 10px 3px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.row input{
+    padding: 15px 0;
+    margin: 0;
+    width: 288px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
